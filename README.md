@@ -1,0 +1,2 @@
+# Kamoti
+My first repo
